@@ -1,0 +1,55 @@
+{
+    "system_config": {
+        "max_size_mb": 10.0,
+        "user_name": "User"
+    },
+    "facts": [
+        {
+            "id": 1,
+            "category": "technical_preference",
+            "content": "Prefers Python for data engineering and backend tasks.",
+            "importance": 5,
+            "timestamp": "2026-10-11 21:30:00",
+            "access_count": 1
+        },
+        {
+            "id": 2,
+            "category": "preference",
+            "content": "Prefers concise, practical code snippets.",
+            "importance": 5,
+            "timestamp": "2026-10-11 21:38:52",
+            "access_count": 1
+        },
+        {
+            "id": 3,
+            "category": "tech_stack",
+            "content": "Working with Python 3.10+ on local system.",
+            "importance": 4,
+            "timestamp": "2026-10-11 21:38:52",
+            "access_count": 0
+        },
+        {
+            "id": 4,
+            "category": "project_decision",
+            "content": "We decided to use Python for the local memory pipeline.",
+            "importance": 4,
+            "timestamp": "2026-10-11 21:40:00",
+            "access_count": 1
+        },
+        {
+            "id": 5,
+            "category": "project_decision",
+            "content": "We are storing context locally in a JSON file for privacy.",
+            "importance": 4,
+            "timestamp": "2026-10-11 21:40:00",
+            "access_count": 1
+        }
+    ],
+    "active_projects": [
+        {
+            "project_name": "LifeLong Memory Engine",
+            "current_goal": "Setting up local JSON-based context pipeline",
+            "last_updated": "2026-10-11 21:30:00"
+        }
+    ]
+}
